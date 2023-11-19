@@ -1,0 +1,15 @@
+.home-container {
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    color: '#007bff';
+}
+
+img {
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+    margin-top: 20px;
+}
